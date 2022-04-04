@@ -1,0 +1,7 @@
+C:\Users\faruk\Desktop\patika\Patika.NetCore101-ToDo\obj\Debug\ToDo Uygulaması.csproj.AssemblyReference.cache
+C:\Users\faruk\Desktop\patika\Patika.NetCore101-ToDo\obj\Debug\ToDo Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\faruk\Desktop\patika\Patika.NetCore101-ToDo\bin\Debug\ToDo Uygulaması.exe.config
+C:\Users\faruk\Desktop\patika\Patika.NetCore101-ToDo\bin\Debug\ToDo Uygulaması.exe
+C:\Users\faruk\Desktop\patika\Patika.NetCore101-ToDo\bin\Debug\ToDo Uygulaması.pdb
+C:\Users\faruk\Desktop\patika\Patika.NetCore101-ToDo\obj\Debug\ToDo Uygulaması.exe
+C:\Users\faruk\Desktop\patika\Patika.NetCore101-ToDo\obj\Debug\ToDo Uygulaması.pdb
