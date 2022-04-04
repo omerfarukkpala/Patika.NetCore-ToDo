@@ -1,6 +1,11 @@
 # Patika.NetCore101-ToDo
 Console ToDo Uygulaması
 
+![boardlisteleme](https://user-images.githubusercontent.com/101570820/161508563-7d945e0d-d510-4739-8e72-f4bdef1828e7.jpg)
+![4-karttasima](https://user-images.githubusercontent.com/101570820/161508570-5d72a9c2-1d8c-4d61-8a22-93c76a259ddc.jpg)
+![3-kartsilme](https://user-images.githubusercontent.com/101570820/161508574-57f0fa3f-1ef4-4ed0-a8aa-067e31322507.jpg)
+![2-boardkartekleme](https://user-images.githubusercontent.com/101570820/161508575-ef7128cd-c811-422e-951a-a1435cb3c05e.jpg)
+
 Kart Ekle
 Kart Güncelle
 Kart Sil
