@@ -1,6 +1,6 @@
 ﻿namespace ToDo_Uygulaması
 {
-    //CardModel
+    
     public class CardModel
     {
         public string Title { get; set; }

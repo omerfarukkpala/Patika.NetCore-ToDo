@@ -4,7 +4,7 @@ namespace ToDo_Uygulaması
 {
     public static class OperationController
     {
-        //OperationController
+        
         public static void AddUser()
         {
 

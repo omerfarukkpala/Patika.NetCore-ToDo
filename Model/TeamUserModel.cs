@@ -1,6 +1,5 @@
 ﻿namespace ToDo_Uygulaması
 {
-    //TeamUserModel
     public class TeamUserModel
     {
         public int Id { get; set; }
