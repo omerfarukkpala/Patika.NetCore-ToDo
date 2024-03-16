@@ -1,4 +1,4 @@
-# Patika.NetCore -ToDo  
+# Patika.NetCore -ToDo   
 Console ToDo Application 
  
 
