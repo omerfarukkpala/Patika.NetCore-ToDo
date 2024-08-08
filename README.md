@@ -1,5 +1,5 @@
 # Patika.NetCore -ToDo   
-Console ToDo Application   
+Console ToDo Application    
    
 
 ![boardlisteleme](https://user-images.githubusercontent.com/101570820/161508563-7d945e0d-d510-4739-8e72-f4bdef1828e7.jpg)
