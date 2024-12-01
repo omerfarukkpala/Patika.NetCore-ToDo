@@ -1,6 +1,6 @@
 # Patika.NetCore -ToDo   
 Console ToDo Application    
-    
+     
 
 ![boardlisteleme](https://user-images.githubusercontent.com/101570820/161508563-7d945e0d-d510-4739-8e72-f4bdef1828e7.jpg)
 ![4-karttasima](https://user-images.githubusercontent.com/101570820/161508570-5d72a9c2-1d8c-4d61-8a22-93c76a259ddc.jpg)
